@@ -1,0 +1,3 @@
+drinks 1
+sweets 2
+candies 2

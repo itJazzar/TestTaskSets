@@ -1,0 +1,6 @@
+1 5 drinks
+2 2 sweets, candies
+3 1
+4 1 sweets
+5 1 sweets
+6 1 drinks
